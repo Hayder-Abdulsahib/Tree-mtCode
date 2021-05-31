@@ -29,7 +29,7 @@ class TreeNode {
 
 
 const root = new TreeNode("family");
-root.addChild("jack"); (jack)
+root.addChild("jack");
 
 const name = prompt("enter child full name (done if finished): ");
 console.log(`added a child to ${}`)
